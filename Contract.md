@@ -35,14 +35,14 @@ Item                          | Date responses due                | Format
 **Technical Volume**          | MONTH DD, 2020 at noon, eastern   | Google Form and Google Document (see section X for details)
 **Pricing Sheet**             | MONTH DD, 2020 at noon, eastern   | Excel Spreadsheet (see section X for details)
 
-Government Point of Contact |
+Government Point of Contact | Contact Info
 ----------------------------|----------------------
 Contracting Officer         | *Brian Burns*
 Contracting Office          | *General Services Administration, Federal Acquisition Service, Technology Transformation Services, Office of Acquisition*
-Email                       | *brian.burns\@gsa.gov*
+Email                       | *brian.burns@gsa.gov*
 Correspondence              | *Any emails related to this RFQ shall use the email subject heading "RFQ12345 - \[Vendor's Name\]"*
 
-Important Dates, Times, and Posting Information | 
+Important Dates, Times, and Posting Information | Date/Contact
 ------------------------------------------------|---------------------
 RFQ Posting Date                                | *TBD*
 RFQ Closing Date                                | *TBD*
