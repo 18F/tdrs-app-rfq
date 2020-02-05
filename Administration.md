@@ -412,7 +412,7 @@ Surveillance Services or Equipment (Aug 2019)
 "Covered telecommunications equipment or services", "Critical
 technology", and "Substantial or essential component" have the meanings
 provided in clause
-[[52.204-25]{.underline}](https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses#unique_1301136027),
+[52.204-25](https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses#unique_1301136027),
 Prohibition on Contracting for Certain Telecommunications and Video
 Surveillance Services or Equipment.
 
@@ -425,9 +425,9 @@ telecommunications equipment or services as a substantial or essential
 component of any system, or as critical technology as part of any
 system. Contractors are not prohibited from providing---
 
-  2. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+  1. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
 
-  2. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+  1. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
 1. *Representation.* The Offeror represents that---
 
@@ -440,13 +440,13 @@ solicitation.
 representation in paragraph (c) of this provision, the Offeror shall
 provide the following information as part of the offer
 
-  2. All covered telecommunications equipment and services offered (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable);
+  1. All covered telecommunications equipment and services offered (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable);
 
-  2. Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision;
+  1. Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision;
 
-  2. For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and
+  1. For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and
 
-  2. For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
+  1. For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
 
 ## **552.204-70 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.**
 
@@ -470,9 +470,9 @@ telecommunications equipment or services as a substantial or essential
 component of any system, or as critical technology as part of any
 system. Contractors are not prohibited from providing-
 
-  2. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+  1. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
 
-  2. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+  1. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
 1. Representation. \[Contractor to complete and submit to the
 Contracting Officer\] The Offeror or Contractor represents that it \[ \]
@@ -487,13 +487,13 @@ affirmatively to the representation In paragraph (c) of this clause, the
 Offeror or Contractor shall provide the following additional information
 to the Contracting Officer\--
 
-  2. All covered telecommunications equipment and services offered or provided (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable);
+  1. All covered telecommunications equipment and services offered or provided (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable);
 
-  2. Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision; 10
+  1. Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision; 10
 
-  2. For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and
+  1. For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and
 
-  2. For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
+  1. For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
 
 
 ## **FAR 52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment**
@@ -511,19 +511,19 @@ Surveillance Services or Equipment (Aug 2019)
 
 "Covered telecommunications equipment or services" means--
 
-  2. Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such entities);
+  1. Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such entities);
 
-  2. For the purpose of public safety, security of Government
+  1. For the purpose of public safety, security of Government
 facilities, physical security surveillance of critical infrastructure,
 and other national security purposes, video surveillance and
 telecommunications equipment produced by Hytera Communications
 Corporation, Hangzhou Hikvision Digital Technology Company, or Dahua
 Technology Company (or any subsidiary or affiliate of such entities);
 
-  2. Telecommunications or video surveillance services provided by such
+  1. Telecommunications or video surveillance services provided by such
 entities or using such equipment; or
 
-  2. Telecommunications or video surveillance equipment or services
+  1. Telecommunications or video surveillance equipment or services
 produced or provided by an entity that the Secretary of Defense, in
 consultation with the Director of National Intelligence or the Director
 of the Federal Bureau of Investigation, reasonably believes to be an
@@ -532,37 +532,37 @@ of a covered foreign country.
 
 "Critical technology" means--
 
-  2. Defense articles or defense services included on the United States
+  1. Defense articles or defense services included on the United States
 Munitions List set forth in the International Traffic in Arms
 Regulations under subchapter M of chapter I of title 22, Code of Federal
 Regulations;
 
-  2. Items included on the Commerce Control List set forth in
+  1. Items included on the Commerce Control List set forth in
 Supplement No. 1 to part 774 of the Export Administration Regulations
 under subchapter C of chapter VII of title 15, Code of Federal
 Regulations, and controlled-
 
-    3. Pursuant to multilateral regimes, including for reasons relating
+    1. Pursuant to multilateral regimes, including for reasons relating
 to national security, chemical and biological weapons proliferation,
 nuclear nonproliferation, or missile technology; or
 
-    3. For reasons relating to regional stability or surreptitious
+    1. For reasons relating to regional stability or surreptitious
 listening;
 
-  2. Specially designed and prepared nuclear equipment, parts and
+  1. Specially designed and prepared nuclear equipment, parts and
 components, materials, software, and technology covered by part 810 of
 title 10, Code of Federal Regulations (relating to assistance to foreign
 atomic energy activities);
 
-  2. Nuclear facilities, equipment, and material covered by part 110 of
+  1. Nuclear facilities, equipment, and material covered by part 110 of
 title 10, Code of Federal Regulations (relating to export and import of
 nuclear equipment and material);
 
-  2. Select agents and toxins covered by part 331 of title 7, Code of
+  1. Select agents and toxins covered by part 331 of title 7, Code of
 Federal Regulations, part 121 of title 9 of such Code, or part 73 of
 title 42 of such Code; or
 
-  2. Emerging and foundational technologies controlled pursuant to
+  1. Emerging and foundational technologies controlled pursuant to
 section 1758 of the Export Control Reform Act of 2018 (50 U.S.C. 4817).
 
 "Substantial or essential component" means any component necessary for
@@ -588,10 +588,10 @@ described in Federal Acquisition Regulation
 1. *Exceptions.* This clause does not prohibit contractors from
 providing---
 
-  2. A service that connects to the facilities of a third-party, such
+  1. A service that connects to the facilities of a third-party, such
 as backhaul, roaming, or interconnection arrangements; or
 
-  2. Telecommunications equipment that cannot route or redirect user
+  1. Telecommunications equipment that cannot route or redirect user
 data traffic or permit visibility into any user data or packets that
 such equipment transmits or otherwise handles.
 
@@ -612,10 +612,10 @@ Department of Defense, identify both the indefinite delivery contract
 and any affected orders in the report provided at
 [https://dibnet.dod.mil](https://dibnet.dod.mil/).
 
-  2. The Contractor shall report the following information pursuant to
+  1. The Contractor shall report the following information pursuant to
 paragraph (d)(1) of this clause
 
-    3. Within one business day from the date of such identification or
+    1. Within one business day from the date of such identification or
 notification: the contract number; the order number(s), if applicable;
 supplier name; supplier unique entity identifier (if known); supplier
 Commercial and Government Entity (CAGE) code (if known); brand; model
@@ -624,7 +624,7 @@ number, or wholesaler number); item description; and any readily
 available information about mitigation actions undertaken or
 recommended.
 
-    3. Within 10 business days of submitting the information in
+    1. Within 10 business days of submitting the information in
 paragraph (d)(2)(i) of this clause: any further available information
 about mitigation actions undertaken or recommended. In addition, the
 Contractor shall describe the efforts it undertook to prevent use or
