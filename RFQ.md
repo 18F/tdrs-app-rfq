@@ -239,47 +239,29 @@ reprioritized by the Product Owner at any time, in coordination with the
 Contractor's team. OFA expects that the user stories will be
 continuously refined during the development process.
 
--   As a data and reporting specialist, I need clear data validation, so
-    > I have confidence that errors are being found and flagged as early
-    > as possible.
+-    As a data and reporting specialist, I need clear data validation, so I have confidence that errors are being found and flagged as early as possible.
 
--   As a data and reporting specialist, I need customizable data
-    > validation rules, so I can adapt my validation rules as my program
-    > requires.
+-    As a data and reporting specialist, I need customizable data validation rules, so I can adapt my validation rules as my program requires.
 
--   As a data and reporting specialist, I need all my data in one
-    > database so I can create custom queries.
+-    As a data and reporting specialist, I need all my data in one database so I can create custom queries.
 
--   As a data and reporting specialist, I need plain-language guidance
-    > on how to enter my data and how to remedy data input errors, so I
-    > understand the process I am required to follow.
+-    As a data and reporting specialist, I need plain-language guidance on how to enter my data and how to remedy data input errors, so I understand the process I am required to follow.
 
--   As a data and reporting specialist, I need the ability to append
-    > metadata to my reports, so I can flag issues I'm having or why I
-    > have chosen to leave some fields blank.
+-    As a data and reporting specialist, I need the ability to append metadata to my reports, so I can flag issues I'm having or why I have chosen to leave some fields blank.
 
--   As a data and reporting specialist, I need automated and timely
-    > messages that confirm my data has been received, so I know I have
-    > met my reporting requirements.
+-    As a data and reporting specialist, I need automated and timely messages that confirm my data has been received, so I know I have met my reporting requirements.
 
--   As a data and reporting specialist, I need basic data visualization
-    > capabilities, so I can spend less time manually building reports.
+-    As a data and reporting specialist, I need basic data visualization capabilities, so I can spend less time manually building reports.
 
--   As a data and reporting specialist, I need a reporting system that
-    > accepts multiple file formats, so I do not manually have to enter
-    > data into an interface.
+-    As a data and reporting specialist, I need a reporting system that accepts multiple file formats, so I do not manually have to enter data into an interface.
 
--   As a program director, I need an easy-to-use interface, so that
-    > staff of varying capacity levels and comfort with technology will
-    > be able to successfully use the system.
+-    As a program director, I need an easy-to-use interface, so that staff of varying capacity levels and comfort with technology will be able to successfully use the system.
 
--   As a program director, I need different levels of access for
-    > different types of users, so that personally identifiable
-    > information (PII) is kept confidential.
+-    As a program director, I need different levels of access for different types of users, so that personally identifiable information (PII) is kept confidential.
 
--   As a program director, I need a data reporting format that meets
-    > Congressional reporting requirements.
+-    As a program director, I need a data reporting format that meets Congressional reporting requirements.
 
+Congressional reporting requirements.
 **3.2 List of Deliverables with Quality Assurance Surveillance Plan
 (QASP)**
 
@@ -288,130 +270,15 @@ levels the code and documentation provided by the Contractor must meet,
 and the methods OFA will use to assess the standard and quality levels
 of that code and documentation.
 
-+-------------+-------------+-------------+-------------+-------------+
-| **De        | **          | *           | **Method of | **Due       |
-| liverable** | Performance | *Acceptable | A           | Date**      |
-|             | St          | Quality     | ssessment** |             |
-|             | andard(s)** | Level**     |             |             |
-+=============+=============+=============+=============+=============+
-| Tested Code | Code        | Minimum of  | Combination | Every       |
-|             | delivered   | 90% test    | of manual   | sprint      |
-|             | under the   | coverage of | review and  |             |
-|             | order must  | all code.   | automated   |             |
-|             | have        | All areas   | testing     |             |
-|             | substantial | of code are |             |             |
-|             | test code   | m           |             |             |
-|             | coverage.   | eaningfully |             |             |
-|             |             | tested.     |             |             |
-|             | Version     |             |             |             |
-|             | -controlled |             |             |             |
-|             | \[Agency\]  |             |             |             |
-|             | GitHub      |             |             |             |
-|             | repository  |             |             |             |
-|             | of code     |             |             |             |
-|             | that        |             |             |             |
-|             | comprises   |             |             |             |
-|             | product     |             |             |             |
-|             | that will   |             |             |             |
-|             | remain in   |             |             |             |
-|             | the         |             |             |             |
-|             | government  |             |             |             |
-|             | domain.     |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Properly    | [GSA 18F    | 0 linting   | Combination | Every       |
-| Styled Code | Front- End  | errors and  | of manual   | sprint      |
-|             | Guide]{     | 0 warnings  | review and  |             |
-|             | .underline} |             | automated   |             |
-|             |             |             | testing     |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Accessible  | Web Content | 0 errors    | [https://gi |             |
-|             | Ac          | reported    | thub.com/pa |             |
-|             | cessibility | using an    | 11y/pa11y]{ |             |
-|             | Guidelines  | automated   | .underline} |             |
-|             | 2.1 AA      | scanner and |             |             |
-|             | standards   | 0 errors    |             |             |
-|             |             | reported in |             |             |
-|             |             | manual      |             |             |
-|             |             | testing     |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Deployed    | Code must   | Successful  | Combination | Every       |
-|             | s           | build with  | of manual   | sprint      |
-|             | uccessfully | a single    | review and  |             |
-|             | build and   | command     | automated   |             |
-|             | deploy into |             | testing     |             |
-|             | staging     |             |             |             |
-|             | e           |             |             |             |
-|             | nvironment. |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Documented  | All         | Combination | Manual      | Every       |
-|             | d           | of manual   | review      | sprint      |
-|             | ependencies | review and  |             |             |
-|             | are listed  | automated   |             |             |
-|             | and the     | testing, if |             |             |
-|             | licenses    | available   |             |             |
-|             | are         |             |             |             |
-|             | documented. |             |             |             |
-|             | Major       |             |             |             |
-|             | fu          |             |             |             |
-|             | nctionality |             |             |             |
-|             | in the      |             |             |             |
-|             | soft        |             |             |             |
-|             | ware/source |             |             |             |
-|             | code is     |             |             |             |
-|             | documented. |             |             |             |
-|             | Individual  |             |             |             |
-|             | methods are |             |             |             |
-|             | documented  |             |             |             |
-|             | inline in a |             |             |             |
-|             | format that |             |             |             |
-|             | permit the  |             |             |             |
-|             | use of      |             |             |             |
-|             | tools such  |             |             |             |
-|             | as JSDoc.   |             |             |             |
-|             | System      |             |             |             |
-|             | diagram is  |             |             |             |
-|             | provided.   |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Secure      | OWASP       | Code        | Clean tests | Every       |
-|             | Application | submitted   | from a      | sprint      |
-|             | Security    | must be     | static      |             |
-|             | V           | free of     | testing     |             |
-|             | erification | medium- and | SaaS (such  |             |
-|             | Standard    | high-level  | as Snyk or  |             |
-|             | 3.0         | static and  | npm audit)  |             |
-|             |             | dynamic     | and from    |             |
-|             |             | security    | OWASP ZAP,  |             |
-|             |             | vuln        | along with  |             |
-|             |             | erabilities | do          |             |
-|             |             |             | cumentation |             |
-|             |             |             | explaining  |             |
-|             |             |             | any false   |             |
-|             |             |             | positives   |             |
-+-------------+-------------+-------------+-------------+-------------+
-| User        | Usability   | Research    | OFA will    | As needed   |
-| research    | testing and | plans and   | manually    |             |
-|             | other user  | artifacts   | evaluate    |             |
-|             | research    | from        | the         |             |
-|             | methods     | usability   | artifacts   |             |
-|             | must be     | testing     | based on a  |             |
-|             | conducted   | and/or      | research    |             |
-|             | at regular  | other       | plan        |             |
-|             | intervals   | research    | provided by |             |
-|             | throughout  | methods     | the         |             |
-|             | the         | with end    | contractor  |             |
-|             | development | users are   | at the end  |             |
-|             | process     | available   | of the      |             |
-|             | (not just   | at the end  | second      |             |
-|             | at the      | of every    | sprint and  |             |
-|             | beginning   | applicable  | every       |             |
-|             | or end).    | sprint, in  | applicable  |             |
-|             |             | accordance  | sprint      |             |
-|             |             | with the    | thereafter. |             |
-|             |             | c           |             |             |
-|             |             | ontractor's |             |             |
-|             |             | research    |             |             |
-|             |             | plan.       |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+| Deliverable | Performance Standard(s) | Acceptable Quality Level | Method of Assessment |
+| --- | --- | --- | --- |
+| Tested Code | Code delivered under the order must have substantial test code coverage. Version-controlled CMS GitHub repository of code that comprises product that will remain in the government domain. | Minimum of 90% test coverage of all code. All areas of code are meaningfully tested. | Combination of manual review and automated testing |
+| Properly Styled Code | [Airbnb Style Guide](https://github.com/airbnb/javascript) and [prettier](https://prettier.io/) for Javascript. CSS and Sass conforms to Block-Element-Modifier [BEM](http://getbem.com/) | 0 linting errors and 0 warnings | Combination of manual review and automated testing with eslint |
+| Accessible | Web Content Accessibility Guidelines 2.1 AA (WCAG 2.1 AA) standards | 0 errors reported for WCAG 2.1 AA standards using an automated scanner and 0 errors reported in manual testing | [http://squizlabs.github.io/HTML\_CodeSniffer/](http://squizlabs.github.io/HTML_CodeSniffer/) or [https://github.com/pa11y/pa11y](https://github.com/pa11y/pa11y) |
+| Deployed | Code must successfully build and deploy into staging environment. | Successful build with a single command | Combination of manual review and automated testing |
+| Documentation | All dependencies are listed and the licenses are documented. Major functionality in the software/source code is documented. Individual methods are documented inline using comments that permit the use tools such as JsDoc. System diagram is provided. | Combination of manual review and automated testing, if available | Manual review |
+| Secure | OWASP Application Security Verification Standard 3.0 | Code submitted must be free of medium- and high-level static and dynamic security vulnerabilities | Clean tests from a static testing SaaS (such as Snyk or npm audit) and from OWASP ZAP, along with documentation explaining any false positives |
+| User Research | Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end). | Research plans and artifacts from usability testing and/or other research methods with end users are available at the end of every applicable sprint, in accordance with the contractor’s research plan. | OFA will manually evaluate the artifacts based on a research plan provided by the contractor at the end of the second sprint and every applicable sprint thereafter. |
 
 4.  **Contract Place of Performance and Contract Type**
 
