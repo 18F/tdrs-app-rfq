@@ -51,10 +51,7 @@ The states, territories, the District of Columbia, and
 federally-recognized Indian tribes generally input their data in one of
 several ways:
 
--   using a legacy tool (ftanf.exe) that exports files in a special text
-    > format (information about the format of the incoming data can be
-    > found here:
-    > [[https://www.acf.hhs.gov/ofa/resource/tanfedit/index\#transmission-file-header]{.underline}](https://www.acf.hhs.gov/ofa/resource/tanfedit/index#transmission-file-header));
+-   using a legacy tool [(ftanf.exe)](https://www.acf.hhs.gov/ofa/resource/tanfedit/index#transmission-file-header) that exports files in a special text format; 
 
 -   using their own software to export the data in this format; or
 
@@ -82,8 +79,8 @@ take advantage of modern technology or best practices. The system is
 inflexible to changing requirements, not automated, has no real user
 interface, doesn't validate data effectively, and doesn't provide OFA
 with full ownership of the data housed within it. This puts a
-disproportionate amount of burden on all users of the system --- both
-federal staff and the state, local, and tribal grantees --- and has led
+disproportionate amount of burden on all users of the system -- both
+federal staff and the state, local, and tribal grantees -- and has led
 to a painful user experience and often untimely or inaccurate data.
 
 The data TDRS collects and stores from states, tribes, and territories
