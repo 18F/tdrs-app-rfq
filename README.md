@@ -27,14 +27,14 @@ to replace this system with a modern system using open source
 technologies that will ease these problems and give them much more
 control over their data.
 
-Here we provide [a draft of the Request for Quotes (RFQ)](RFQ.md) that
+Here we provide a draft of the Request for Quotes (RFQ) that
 we intend to release to solicit software development services to build our
 new Tanf Data Reporting System.
 
 We intend to release the final RFQ **TBD**
 with responses due **TBD**.
 
-## Table of Contents
+## RFQ Table of Contents
 
 1. [Purpose and Background](PurposeBackground.md)
 1. [Scope](Scope.md)

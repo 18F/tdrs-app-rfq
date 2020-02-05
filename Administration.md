@@ -94,33 +94,28 @@ individually, exceeds the simplified acquisition threshold. These
 evaluations are generally for the entity, division, or unit that
 performed the contract or order.
 
-\(1\) Evaluating Contractor Performance: The General Services
+1. Evaluating Contractor Performance: The General Services
 Administration is using the Contractor Performance Assessment Reporting
 System (CPARS) module as the secure, confidential, information
 management tool to facilitate the performance evaluation process. CPARS
 enables a comprehensive evaluation by capturing comments from both TTS
 and the contractor. The website for CPARS is
-[[http://www.cpars.gov]{.underline}](http://www.cpars.gov) Completed
+[http://www.cpars.gov](http://www.cpars.gov) Completed
 CPARS evaluations are sent to the Past Performance Information Retrieval
 System (PPIRS) which may then be used by Federal acquisition community
 for use in making source selection decisions. PPIRS assists acquisition
 officials by serving as the single source for contractor past
 performance data.
-
-\(2\) CPARS Registration: Each award requiring an evaluation must be
+1. CPARS Registration: Each award requiring an evaluation must be
 registered in CPARS. The awardee will receive several automated emails.
 Within thirty days of award, the contractor will receive an email that
 contains user account information, as well as the applicable contract
 and order number(s) assigned. The contractor will be granted one user
 account to access all evaluations.
-
-\(3\) Contractor CPARS Training: The contractor may sign up for CPARS
-training. A schedule of classes will be posted to the CPARS training
-site
-([[http://www.cpars.gov/allapps/cpcbtdlf.htm]{.underline}](http://www.cpars.gov/allapps/cpcbtdlf.htm)
-) and updated as needed.
-
-\(4\) Contractor Representative (CR) Role: All evaluations will be sent
+1. Contractor CPARS Training: The contractor may sign up for CPARS
+training. A schedule of classes will be posted to the [CPARS training
+site](http://www.cpars.gov/allapps/cpcbtdlf.htm) and updated as needed.
+1. Contractor Representative (CR) Role: All evaluations will be sent
 to the contractor Representative (CR) named on your award. The CR will
 be able to access CPARS to review and comment on the evaluation. If your
 CR is not already in the CPARS system, the contracting officer will
@@ -159,8 +154,7 @@ considered concurrence and acceptance of services.
 The Contractor must submit a final invoice within 60 calendar days from
 government acceptance. No further charges are to be billed following the
 final invoice submission. A completed and signed Release of Claims
-([[GSA Form
-1142]{.underline}](https://www.gsa.gov/forms-library/release-claims))
+([GSA Form 1142](https://www.gsa.gov/forms-library/release-claims))
 shall be uploaded to the ITSS with the submission of a final invoice.
 
 ## Content of Invoice
@@ -192,8 +186,8 @@ Contractors shall electronically transmit/submit invoices and supporting
 documentation for invoices through the GSA web-based procurement system,
 through the Central Invoice Service (CIS), the contractor shall submit
 invoices electronically by logging into the ASSIST portal
-([[https://portal.fas.gsa.gov]{.underline}](https://portal.fas.gsa.gov)
-), navigating to the appropriate order, and creating the invoice for
+([https://portal.fas.gsa.gov](https://portal.fas.gsa.gov)),
+navigating to the appropriate order, and creating the invoice for
 that order. This is the only acceptable means for invoice submissions.
 
 No paper invoices shall be accepted. For additional assistance, contact
@@ -410,22 +404,18 @@ XXX stopped formatting here for now XXX
 Al provisions included and accepted as part of the vendor's Contract
 shall flowdown to this RFQ.
 
-**52.204-24 Representation Regarding Certain Telecommunications and
-Video Surveillance Services or Equipment**
+## Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment
 
 Representation Regarding Certain Telecommunications and Video
 Surveillance Services or Equipment (Aug 2019)
 
-\(a\) *Definitions.* As used in this provision---
-
-"Covered telecommunications equipment or services", "Critical
+a. *Definitions.* As used in this provision--- "Covered telecommunications equipment or services", "Critical
 technology", and "Substantial or essential component" have the meanings
 provided in clause
-[[52.204-25]{.underline}](https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses#unique_1301136027),
+[52.204-25](https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses#unique_1301136027),
 Prohibition on Contracting for Certain Telecommunications and Video
 Surveillance Services or Equipment.
-
-\(b\) *Prohibition*. Section 889(a)(1)(A) of the John S. McCain National
+a. *Prohibition*. Section 889(a)(1)(A) of the John S. McCain National
 Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232)
 prohibits the head of an executive agency on or after August 13, 2019,
 from procuring or obtaining, or extending or renewing a contract to
@@ -434,14 +424,11 @@ telecommunications equipment or services as a substantial or essential
 component of any system, or as critical technology as part of any
 system. Contractors are not prohibited from providing---
 
-\(1\) A service that connects to the facilities of a third-party, such
-as backhaul, roaming, or interconnection arrangements; or
+  1. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
 
-\(2\) Telecommunications equipment that cannot route or redirect user
-data traffic or permit visibility into any user data or packets that
-such equipment transmits or otherwise handles.
+  1. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
-\(c\) *Representation.* The Offeror represents that---
+a. *Representation.* The Offeror represents that---
 
 It □ will, □ will not provide covered telecommunications equipment or
 services to the Government in the performance of any contract,
@@ -544,7 +531,7 @@ to the Contracting Officer\--
 Telecommunications and Video Surveillance Services or Equipment**
 
 As prescribed in
-[[4.2105]{.underline}](https://acquisition.gov/content/part-4-administrative-matters#id1989H0G40RF)(b),
+[4.2105](https://acquisition.gov/content/part-4-administrative-matters#id1989H0G40RF)(b),
 insert the following clause:
 
 Prohibition on Contracting for Certain Telecommunications and Video
@@ -630,7 +617,7 @@ system, or as critical technology as part of any system, unless an
 exception at paragraph (c) of this clause applies or the covered
 telecommunication equipment or services are covered by a waiver
 described in Federal Acquisition Regulation
-[[4.2104]{.underline}](https://acquisition.gov/content/part-4-administrative-matters#id1989GI040ZO).
+[4.2104](https://acquisition.gov/content/part-4-administrative-matters#id1989GI040ZO).
 
 \(c\) *Exceptions.* This clause does not prohibit contractors from
 providing---
@@ -651,13 +638,13 @@ the Contractor shall report the information in paragraph (d)(2) of this
 clause to the Contracting Officer, unless elsewhere in this contract are
 established procedures for reporting the information; in the case of the
 Department of Defense, the Contractor shall report to the website at
-[[https://dibnet.dod.mil]{.underline}](https://dibnet.dod.mil/). For
+[https://dibnet.dod.mil](https://dibnet.dod.mil/). For
 indefinite delivery contracts, the Contractor shall report to the
 Contracting Officer for the indefinite delivery contract and the
 Contracting Officer(s) for any affected order or, in the case of the
 Department of Defense, identify both the indefinite delivery contract
 and any affected orders in the report provided at
-[[https://dibnet.dod.mil]{.underline}](https://dibnet.dod.mil/).
+[https://dibnet.dod.mil](https://dibnet.dod.mil/).
 
 \(2\) The Contractor shall report the following information pursuant to
 paragraph (d)(1) of this clause
@@ -698,7 +685,7 @@ same force and effect as if they were given in full text. Upon request,
 the Contracting Officer will make their full text available. Also, the
 full text of a clause may be accessed electronically at this/these
 address(es):
-([[https://www.acquisition.gov/browsefar]{.underline}](https://www.acquisition.gov/browsefar))
+([https://www.acquisition.gov/browsefar](https://www.acquisition.gov/browsefar))
 
 **(End of clause)**
 
