@@ -44,7 +44,7 @@ The order will be for an initial period of one year, and OFA will have options t
 
 ### Budget
 
-OFA will pay up to $1.3 million for services during the first year, and up to $1.4 million during each of the two option years.
+OFA will pay up to $1.4 million for services during the first year, and up to $1.4 million during each of the two option years.
 
 ## Contributing
 
