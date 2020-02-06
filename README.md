@@ -1,40 +1,21 @@
-# Draft TANF Data Reporting System (TDRS) RFQ
+# Data Reporting RFQ
+
+Developing an RFQ to procure a new data reporting system for the the Office of Family Assistance (OFA) within the US Department of Health and Human Services (HHS).
 
 ## Introduction
 
-The Office of Family Assistance (OFA) within the Administration for
-Children and Families (ACF) administers the Temporary Assistance for
-Needy Families (TANF) program on behalf of the Department of Health and
-Human Services (HHS). Since 1996, the TANF program has served as one of
-the nation's primary economic security and stability programs for
-low-income families with children. TANF is a block grant that provides
-$16.6 billion annually to states, territories, the District of
-Columbia, and federally-recognized Indian tribes. These TANF
-jurisdictions use federal TANF funds to provide income support as well
-as a wide range of services to vulnerable families with minor children.
+OFA administers the Temporary Assistance for Needy Families (TANF) program on behalf of HHS.
 
-As part of oversight and administration of the TANF Program, OFA
-operates the TANF Data Reporting System (TDRS).
+Since 1996, the TANF program has served as one of the nation’s primary economic security and stability programs for low-income families with children. TANF is a grant that provides $16.6 billion annually to states, territories, the District of Columbia, and federally-recognized Indian tribes. These TANF jurisdictions use federal TANF funds to provide income support as well as a wide range of services to vulnerable families with minor children.
 
-OFA's state, territory, and tribal TANF grantees submit data to TDRS
-that they are legislatively-mandated to report. OFA then aggregates the
-data and uses it for descriptive analyses and program accountability,
-most notably through the work participation rate calculations.
+As part of oversight and administration of the TANF Program, OFA operates the TANF Data Reporting System (TDRS). OFA's state, territory, and tribal TANF grantees submit data to TDRS that they are legislatively-mandated to report. OFA then aggregates the data and uses it for descriptive analyses and program accountability.
 
-The existing system was developed in the late 1990s using late 80s
-technology, and thus is difficult to operate and use.  OFA intends
-to replace this system with a modern system using open source
-technologies that will ease these problems and give them much more
-control over their data.
+OFA intends to develop and deploy a new data reporting system that uses open source software.
+Here we provide a [draft of the Request for Quotes (RFQ)](RFQ.md) that we intend to release to solicit software development services to build our new data reporting system.
 
-Here we provide a draft of the Request for Quotes (RFQ) that
-we intend to release to solicit software development services to build our
-new Tanf Data Reporting System.
+We intend to release the final RFQ later this month with responses due within 3-4 weeks of its release.
 
-We intend to release the final RFQ **TBD**
-with responses due **TBD**.
-
-## RFQ Table of Contents
+## Draft RFQ Table of Contents
 
 1. [Purpose and Background](PurposeBackground.md)
 1. [Scope](Scope.md)
@@ -43,5 +24,28 @@ with responses due **TBD**.
 1. [Evaluation Criteria](Evaluation.md)
 1. [Administration](Administration.md)
 
-The original Draft RFQ document can be found [here](https://docs.google.com/forms/d/1NYK7Ok5tswQ3wMxERGaMSwH36HojNzUApQWj2lKMUPo/edit),
-and a PDF generated from it is available [here](DRAFT_TDRS_RFQ.pdf).
+## Background
+
+### What we're hoping to achieve as a result of this acquisition
+
+We want a wholesale replacement of our data reporting system. Our goal is not to create a feature-level duplication of our legacy system, but instead to have a thoughtful software development process by which the various users of the system have their needs addressed. 
+
+### How to respond
+
+The purpose of posting this draft of the RFQ is to solicit feedback from any interested parties, including vendors of software development services. Feedback should be submitted in the following ways:
+  1. Submit a response to this [Google form](https://docs.google.com/forms/d/1NYK7Ok5tswQ3wMxERGaMSwH36HojNzUApQWj2lKMUPo/edit) and 
+  1. Changes proposed as [pull requests](https://github.com/18F/tdrs-app-rfq/pulls), or by [opening a new issue](https://github.com/18F/tdrs-app-rfq/issues/). 
+
+Note that we are *not* seeking proposals at this time.
+
+### Contract Term
+
+The order will be for an initial period of one year, and the TANF program will have options to extend the initial period for a total of up to two additional years.
+
+### Budget
+
+The TANF program will pay up to $1.3 million for services during the first year, and up to $1.4 million during each of the two option years.
+
+## Contributing
+
+See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
