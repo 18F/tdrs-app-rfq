@@ -3,7 +3,7 @@
 OFA seeks agile software development services to begin work toward this
 vision of a user-friendly data system. The services to be provided under
 this task order will include all aspects of the software development
-process --- including initial planning, design, user research, software
+process - including initial planning, design, user research, software
 development and coding, prototyping, documentation, testing, and
 configuration.
 
@@ -24,7 +24,7 @@ and territory users to see and download their data in the system.
 OFA has designated an employee who will be empowered to serve as the
 Product Owner for this project. OFA's Product Owner will liaise with
 other stakeholders, weigh business needs, set direction, make
-prioritization choices, build a product roadmap,, and support the
+prioritization choices, build a product roadmap, and support the
 development team. Our 18F partner and the contractor will assist OFA
 with product management.
 
