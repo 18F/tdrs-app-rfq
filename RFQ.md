@@ -7,5 +7,5 @@
 1. [Evaluation Criteria](Evaluation.md)
 1. [Administration](Administration.md)
 
-The original Draft RFQ document can be found [here](https://docs.google.com/forms/d/1NYK7Ok5tswQ3wMxERGaMSwH36HojNzUApQWj2lKMUPo/edit),
+The draft RFQ (RFI)response form can be found [here](https://docs.google.com/forms/d/1NYK7Ok5tswQ3wMxERGaMSwH36HojNzUApQWj2lKMUPo/edit),
 and a PDF generated from it is available [here](DRAFT_TDRS_RFQ.pdf).
