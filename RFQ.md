@@ -8,4 +8,4 @@
 1. [Administration](Administration.md)
 
 The draft RFQ (RFI)response form can be found [here](https://docs.google.com/forms/d/1NYK7Ok5tswQ3wMxERGaMSwH36HojNzUApQWj2lKMUPo/edit),
-and a PDF generated from it is available [here](DRAFT_TDRS_RFQ.pdf).
+and a PDF generated from it is available [here](DRAFT TDRS software development RFQ (2).pdf).
