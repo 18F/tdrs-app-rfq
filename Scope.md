@@ -45,4 +45,4 @@ repository (such as GitHub) designated by OFA.
 
 ## Anticipated Period of Performance, Budget, and Ceiling Price
 
-The period of performance will include a one year base period with two one-year option periods. OFA will pay up to $1.3 million for requested services and authorized travel incurred during the base period, up to an additional $1.4 million for services and authorized travel incurred during the first option year, and up to an additional $1.4 million for services and authorized travel incurred during the second option year.
+The period of performance will include a one year base period with two one-year option periods. OFA will pay up to $1.4 million for requested services and authorized travel incurred during the base period, up to an additional $1.4 million for services and authorized travel incurred during the first option year, and up to an additional $1.4 million for services and authorized travel incurred during the second option year.
