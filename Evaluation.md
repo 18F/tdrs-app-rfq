@@ -58,8 +58,6 @@ also include a description of the contractor's plans, if any, to provide
 services through a joint venture, teaming partner, or subcontractors.
 
 Contractors must complete the sections in **RED** of attached
-[Performance Work
-Statement](https://docs.google.com/document/d/1QWhGnjLdakmBPwOERmEFRGXcm9lefq0vE-mJBbt8p0o/edit#)
 (PWS). Submission of any other template will constitute a non-responsive
 quote.
 
