@@ -488,12 +488,9 @@ telecommunications equipment or services as a substantial or essential
 component of any system, or as critical technology as part of any
 system. Contractors are not prohibited from providing-
 
-> \(1\) A service that connects to the facilities of a third-party, such
-> as backhaul, roaming, or interconnection arrangements; or
->
-> \(2\) Telecommunications equipment that cannot route or redirect user
-> data traffic or permit visibility into any user data or packets that
-> such equipment transmits or otherwise handles.
+  1. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+
+  1. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
 \(c\) Representation. \[Contractor to complete and submit to the
 Contracting Officer\] The Offeror or Contractor represents that it \[ \]
@@ -508,25 +505,13 @@ affirmatively to the representation In paragraph (c) of this clause, the
 Offeror or Contractor shall provide the following additional information
 to the Contracting Officer\--
 
-> \(1\) All covered telecommunications equipment and services offered or
-> provided (include brand; model number, such as original equipment
-> manufacturer (OEM) number, manufacturer part number, or wholesaler
-> number; and item description, as applicable);
->
-> \(2\) Explanation of the proposed use of covered telecommunications
-> equipment and services and any factors relevant to determining if such
-> use would be permissible under the prohibition in paragraph (b) of
-> this provision; 10
->
-> \(3\) For services, the entity providing the covered
-> telecommunications services (include entity name, unique entity
-> identifier, and Commercial and Government Entity (CAGE) code, if
-> known); and
->
-> \(4\) For equipment, the entity that produced the covered
-> telecommunications equipment (include entity name, unique entity
-> identifier, CAGE code, and whether the entity was the OEM or a
-> distributor, if known).
+  1. All covered telecommunications equipment and services offered or provided (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable);
+
+  1. Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision; 10
+
+  1. For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and
+
+  1. For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
 
 **(End of clause)**
 
