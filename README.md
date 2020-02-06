@@ -34,7 +34,7 @@ We want a wholesale replacement of our data reporting system. Our goal is not to
 
 The purpose of posting this draft of the RFQ is to solicit feedback from any interested parties, including vendors of software development services. Feedback should be submitted in the following ways:
   1. Submit a response to this [Google form](https://docs.google.com/forms/d/1NYK7Ok5tswQ3wMxERGaMSwH36HojNzUApQWj2lKMUPo/edit) and 
-  1. Changes proposed as [pull requests](https://github.com/18F/tdrs-app-rfq/pulls), or by [opening a new issue](https://github.com/18F/tdrs-app-rfq/issues/). 
+  1. Changes proposed as [pull requests](https://github.com/18F/tdrs-app-rfq/pulls) or by [opening a new issue](https://github.com/18F/tdrs-app-rfq/issues/). 
 
 Note that we are *not* seeking proposals at this time.
 
