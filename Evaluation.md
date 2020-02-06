@@ -236,7 +236,7 @@ categories, contract rates, discount rates and discount percentages.
 This submission must not be submitted in PDF format.
 
 Contractors must complete the sections in **BLUE** of the attached the
-Pricing Sheet. The Pricing Sheet attached to this solicitation must be
+[Pricing Sheet](https://github.com/18F/tdrs-app-rfq/blob/master/Pricing%20Sheet%20-%20TDRS%20Assisted%20Acquisition.xlsx). The Pricing Sheet attached to this solicitation must be
 completed and returned in Excel format with formulae intact. Submission
 of any other price sheet will constitute a non-responsive quote.
 
