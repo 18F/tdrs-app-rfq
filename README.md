@@ -40,11 +40,11 @@ Note that we are *not* seeking proposals at this time.
 
 ### Contract Term
 
-The order will be for an initial period of one year, and the TANF program will have options to extend the initial period for a total of up to two additional years.
+The order will be for an initial period of one year, and OFA will have options to extend the initial period for a total of up to two additional years.
 
 ### Budget
 
-The TANF program will pay up to $1.3 million for services during the first year, and up to $1.4 million during each of the two option years.
+OFA will pay up to $1.3 million for services during the first year, and up to $1.4 million during each of the two option years.
 
 ## Contributing
 
