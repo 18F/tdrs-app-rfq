@@ -399,23 +399,25 @@ basis, beginning 60 days after execution of the option period.
 
 # Provisions & Clauses
 
-XXX stopped formatting here for now XXX
-
 Al provisions included and accepted as part of the vendor's Contract
 shall flowdown to this RFQ.
 
-## Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment
+**52.204-24 Representation Regarding Certain Telecommunications and
+Video Surveillance Services or Equipment**
 
 Representation Regarding Certain Telecommunications and Video
 Surveillance Services or Equipment (Aug 2019)
 
-a. *Definitions.* As used in this provision--- "Covered telecommunications equipment or services", "Critical
+\(a\) *Definitions.* As used in this provision---
+
+"Covered telecommunications equipment or services", "Critical
 technology", and "Substantial or essential component" have the meanings
 provided in clause
 [52.204-25](https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses#unique_1301136027),
 Prohibition on Contracting for Certain Telecommunications and Video
 Surveillance Services or Equipment.
-a. *Prohibition*. Section 889(a)(1)(A) of the John S. McCain National
+
+\(b\) *Prohibition*. Section 889(a)(1)(A) of the John S. McCain National
 Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232)
 prohibits the head of an executive agency on or after August 13, 2019,
 from procuring or obtaining, or extending or renewing a contract to
@@ -424,11 +426,14 @@ telecommunications equipment or services as a substantial or essential
 component of any system, or as critical technology as part of any
 system. Contractors are not prohibited from providing---
 
-  1. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+\(1\) A service that connects to the facilities of a third-party, such
+as backhaul, roaming, or interconnection arrangements; or
 
-  1. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+\(2\) Telecommunications equipment that cannot route or redirect user
+data traffic or permit visibility into any user data or packets that
+such equipment transmits or otherwise handles.
 
-a. *Representation.* The Offeror represents that---
+\(c\) *Representation.* The Offeror represents that---
 
 It □ will, □ will not provide covered telecommunications equipment or
 services to the Government in the performance of any contract,
@@ -483,12 +488,9 @@ telecommunications equipment or services as a substantial or essential
 component of any system, or as critical technology as part of any
 system. Contractors are not prohibited from providing-
 
-> \(1\) A service that connects to the facilities of a third-party, such
-> as backhaul, roaming, or interconnection arrangements; or
->
-> \(2\) Telecommunications equipment that cannot route or redirect user
-> data traffic or permit visibility into any user data or packets that
-> such equipment transmits or otherwise handles.
+  1. A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+
+  1. Telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
 \(c\) Representation. \[Contractor to complete and submit to the
 Contracting Officer\] The Offeror or Contractor represents that it \[ \]
@@ -503,25 +505,13 @@ affirmatively to the representation In paragraph (c) of this clause, the
 Offeror or Contractor shall provide the following additional information
 to the Contracting Officer\--
 
-> \(1\) All covered telecommunications equipment and services offered or
-> provided (include brand; model number, such as original equipment
-> manufacturer (OEM) number, manufacturer part number, or wholesaler
-> number; and item description, as applicable);
->
-> \(2\) Explanation of the proposed use of covered telecommunications
-> equipment and services and any factors relevant to determining if such
-> use would be permissible under the prohibition in paragraph (b) of
-> this provision; 10
->
-> \(3\) For services, the entity providing the covered
-> telecommunications services (include entity name, unique entity
-> identifier, and Commercial and Government Entity (CAGE) code, if
-> known); and
->
-> \(4\) For equipment, the entity that produced the covered
-> telecommunications equipment (include entity name, unique entity
-> identifier, CAGE code, and whether the entity was the OEM or a
-> distributor, if known).
+  1. All covered telecommunications equipment and services offered or provided (include brand; model number, such as original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as applicable);
+
+  1. Explanation of the proposed use of covered telecommunications equipment and services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b) of this provision; 10
+
+  1. For services, the entity providing the covered telecommunications services (include entity name, unique entity identifier, and Commercial and Government Entity (CAGE) code, if known); and
+
+  1. For equipment, the entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
 
 **(End of clause)**
 
