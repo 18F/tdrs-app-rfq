@@ -1,12 +1,12 @@
-# Instructions and Evaluation
+# Instructions and Evaluation **This section is for information purposes only** 
 
 ## Instructions for Quotes
 
-**Questions**
+**Questions** 
 
 All questions concerning this RFQ must be submitted electronically
 through [this Google
-Form](https://docs.google.com/forms/d/1HetiksUSU7PBjbpRnIYJ9I7yvp2hiDnZHgzmA_04TBU/edit)
+Form]
 by the deadline provided above.
 
 Questions should be written in a way that enables clear understanding of
