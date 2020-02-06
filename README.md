@@ -36,6 +36,8 @@ The purpose of posting this draft of the RFQ is to solicit feedback from any int
   1. Submit a response to this [Google form](https://docs.google.com/forms/d/1NYK7Ok5tswQ3wMxERGaMSwH36HojNzUApQWj2lKMUPo/edit) and 
   1. Changes proposed as [pull requests](https://github.com/18F/tdrs-app-rfq/pulls) or by [opening a new issue](https://github.com/18F/tdrs-app-rfq/issues/). 
 
+Responses are due by 12pm ET on February 19, 2020.
+
 Note that we are *not* seeking proposals at this time.
 
 ### Contract Term
