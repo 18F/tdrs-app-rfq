@@ -11,7 +11,7 @@ Since 1996, the TANF program has served as one of the nation’s primary economi
 As part of oversight and administration of the TANF Program, OFA operates the TANF Data Reporting System (TDRS). OFA's state, territory, and tribal TANF grantees submit data to TDRS that they are legislatively-mandated to report. OFA then aggregates the data and uses it for descriptive analyses and program accountability.
 
 OFA intends to develop and deploy a new data reporting system that uses open source software.
-Here we provide a [draft of the Request for Quotes (RFQ)](RFQ.md) that we intend to release to solicit software development services to build our new data reporting system.
+Here we provide a draft of the Request for Quotes (RFQ) that we intend to release to solicit software development services to build our new data reporting system.
 
 We intend to release the final RFQ later this month with responses due within 3-4 weeks of its release.
 
