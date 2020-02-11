@@ -334,6 +334,6 @@ In evaluating a contractor's price, the government will consider the
 total of the contractor's estimated costs for the development services,
 and travel expenses proposed, for three years (a base year period plus
 two one-year option periods). Contractors will use this Excel
-[workbook](https://docs.google.com/spreadsheets/d/1gHAF8oBsC5oMWsQN2VtKSjtM8rhX2uFDnEYRw9kYu9M/edit#gid=0)
+[workbook]
 to submit pricing information.
 
