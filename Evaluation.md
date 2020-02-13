@@ -132,13 +132,13 @@ project, then the contractor must submit a user research plan and design
 artifacts relating to at least one (1) of the source code samples
 provided.
 
-### Phase 2 - Verbal Interviews
+### Phase 2 - Interview
 
 **General Information**
 
 *Format.* After review of Phase 1 -- Technical Submissions, the
 government will invite all contractors with a rating of "Some
-Confidence" or "High Confidence" to Phase 2 - Verbal Interview. Each
+Confidence" or "High Confidence" to Phase 2 - Interview. Each
 contractor will be scheduled a 60-minute interview with the evaluation
 team so they can ask questions based on contractor's technical
 submission. Contractors should also introduce their team members who
@@ -259,13 +259,13 @@ ratings become closer, price will become more important.
     -   **Criteria 1**: Technical Approach
     -   **Criteria 2**: Staffing Plan
     -   **Criteria 3**: Similar Experience
--   Phase 2 - **Criteria 4**: Verbal interview
+-   Phase 2 - **Criteria 4**: Interview
 -   Phase 3 - Price Submission
 
 Contractors must meet all requirements in Phase 1 and will be assigned a
 confidence rating. After the initial Phase 1 confidence assignment,
 contractors with a ranking of "Some Confidence" or "High Confidence"
-will be invited for Phase 2 - Verbal Interview.
+will be invited for Phase 2 - Interview.
 
 Quotes that have failed to meet the criteria established in Phase 1 will
 no longer be considered for award. Contractors that pass Phase 2 with a
