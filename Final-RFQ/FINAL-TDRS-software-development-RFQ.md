@@ -1,4 +1,4 @@
-**General Services Administration**
+# General Services Administration
 
 Federal Acquisition Service
 
@@ -1562,24 +1562,24 @@ to reimburse actual travel expenses as needed.
 
 **Appendices:**
 
-Appendix 1 **-** [<span class="underline">Contract Terms and
-Conditions</span>](https://docs.google.com/document/d/19MtDsW-9APjhjpLeL3okoWUov-euVjOEEMo5lOLt_qc/edit#)
+Appendix 1 **-** Contract Terms and
+Conditions
 
-Appendix 2 - [<span class="underline">RFQ Response
-Template</span>](https://docs.google.com/document/d/1_5wUOqSyBPWz2XOF1eCNcJpPFZyw0nVBMnG7L4-GuuY/edit#)
+Appendix 2 - RFQ Response
+Template</span>
 
-Appendix 3 - [<span class="underline">Pricing Spreadsheet
-Template</span>](https://docs.google.com/spreadsheets/d/1gHAF8oBsC5oMWsQN2VtKSjtM8rhX2uFDnEYRw9kYu9M/edit#gid=0)
+Appendix 3 - Pricing Spreadsheet
+Template</span>
 
 Appendix 4 - [<span class="underline">Performance Work Statement (PWS)
-Template</span>](https://docs.google.com/document/d/1QWhGnjLdakmBPwOERmEFRGXcm9lefq0vE-mJBbt8p0o/edit#)
+Template</span>]()
 
 Appendix 5 - [<span class="underline">Conflict of Interest
-Statement</span>](https://docs.google.com/document/d/1jMr2RgxPaLPIXor6LhcUB3_viX3r9JbrB1El7cha5dA/edit#)
+Statement</span>]()
 
 Appendix 6 - [<span class="underline">Contractor Team Arrangement (CTA)
 Response
-Template</span>](https://docs.google.com/document/d/1oA7Ln2tGusmaO1oj6Lpg6xUqpVgmZWwzva9WDQZZcYg/edit)
+Template</span>]()
 
 Appendix 7 - [<span class="underline">FAR 52.204-24
-Provision</span>](https://docs.google.com/document/d/1rqrmZepQK0YAtRFeg-benPz32hKwg6d6UV40azTuG-8/edit)
+Provision</span>]()
