@@ -17,12 +17,12 @@ We intend to release the final RFQ later this month with responses due within 3-
 
 ## Draft RFQ Table of Contents
 
-1. [Purpose and Background](PurposeBackground.md)
-1. [Scope](Scope.md)
-1. [Objectives](Objectives.md)
-1. [Contract Information](Contract.md)
-1. [Evaluation Criteria](Evaluation.md)
-1. [Administration](Administration.md)
+1. [Purpose and Background](Draft-RFQ/PurposeBackground.md)
+1. [Scope](Draft-RFQ/Scope.md)
+1. [Objectives](Draft-RFQ/Objectives.md)
+1. [Contract Information](Draft-RFQ/Contract.md)
+1. [Evaluation Criteria](Draft-RFQ/Evaluation.md)
+1. [Administration](Draft-RFQ/Administration.md)
 
 ## Background
 
